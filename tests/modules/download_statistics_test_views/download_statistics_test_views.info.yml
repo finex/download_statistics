@@ -1,0 +1,8 @@
+name: "Download Statistics test views"
+type: module
+description: "Provides default views for Download Statistics tests."
+package: Testing
+version: VERSION
+dependencies:
+  - download_statistics
+  - views
