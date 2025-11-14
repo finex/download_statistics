@@ -2,7 +2,7 @@ name: Download Statistics
 type: module
 description: "Logs file download statistics for your site."
 package: Administration
-core_version_requirement: ^8.8 || ^9 || ^10
+core_version_requirement: ^10 || ^11
 configure: download_statistics.settings
 dependencies:
   - node
